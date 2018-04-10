@@ -4,7 +4,7 @@ Wird angezeigt, wenn Vorlagen aktiviert wurden, aber noch keine Vorlagen erstell
 
 ## Relevante Dokumente
 
-* [2-X Vorlagenreiter](2-X_Vorlagenreiter)
+* [2-X Vorlagenreiter](2-X_Vorlagenreiter.md)
 * [Figma Screens]()
 
 -| Deutsch | Englisch
