@@ -4,8 +4,7 @@ Als Nutzer möchte ich häufige/ähnliche Anträge/Elemente nicht immer bei Null
 
 ## Relevante Dokumente
 
-* [2-3 Neues Dokument aus Vorlage]()
-* [2-X Wizardblock Vorlagen](2-X_Wizardblock_Vorlagen)
+* [2-X Wizardblock Vorlagen](2-X_Wizardblock_Vorlagen.md)
 * [Figma-Screens]()
 
 -| Deutsch | Englisch
