@@ -4,7 +4,7 @@
 
 * [Figma Screens](https://www.figma.com/file/ObpEGoczbPSUsnoH7aPFLbdy/Workflow-Generator-Screens?node-id=455%3A0)
 
-- | Deutsch | Englisch
+-- | Deutsch | Englisch
 ---|---|---
 **Header** | [wird aus Textfeld 1 übernommen] | -
 **löschen** | Inhaltsblock löschen | Delete content block

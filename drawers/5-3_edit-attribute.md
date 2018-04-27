@@ -2,11 +2,10 @@
 
 ## Relevante Dokumente
 
-* Figma Screens
-* Feld löschen
-* Applikation aktualisieren
+* [Figma Screens](https://www.figma.com/file/ObpEGoczbPSUsnoH7aPFLbdy/Workflow-Generator-Screens?node-id=168%3A1014)
+* [Attribut löschen](../modals/5-2_delete-attribute.md)
 
-- | Deutsch | Englisch
+-- | Deutsch | Englisch
 ---|---|---
 **H1** | Attribut bearbeiten | Heading
 **Body** | Ihre Änderungen können sich auf bestehende Daten auswirken. Hier können Sie festlegen, wie bestehende Daten angepasst werden sollen. Die Daten werden erst angepasst, wenn Sie die angepasste Applikation aktivieren | Your edits can affect existing data sets. The affected data can be automatically updated, however, in some cases you have to tell the system how to resolve potential conflicts. Here you define how those conflicts will be handled. The actual change in the data will happen when you activate the edited configuration

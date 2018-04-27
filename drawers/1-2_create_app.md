@@ -1,10 +1,11 @@
 # 1-2 App erstellen
 
 ## Relevante Dokumente
+
 * [Figma-Screens](https://www.figma.com/file/ObpEGoczbPSUsnoH7aPFLbdy/Workflow-Generator-Screens?node-id=945%3A564)
 * [1-3 App Manager](http://link)
 
-- | Deutsch | Englisch
+-- | Deutsch | Englisch
 ---|---|---
 **H1** | Neue Applikation erstellen | Create a custom application
 **Body** | Sie können eine neue Applikation entweder mit einer leeren Konfiguration oder auf Basis einer Vorlage anlegen. Sie können auch eine andere Applikation kopieren und als Vorlage verwenden | You can use a template to get started creating a custom application or build a new application from scratch. You can also you one of your custom applications as a template

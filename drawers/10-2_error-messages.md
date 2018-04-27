@@ -4,7 +4,7 @@
 
 * [Figma Screens](https://www.figma.com/file/ObpEGoczbPSUsnoH7aPFLbdy/Workflow-Generator-Screens?node-id=93%3A1069)
 
-- | Deutsch | Englisch
+-- | Deutsch | Englisch
 ---|---|---
 **H1** | Konfigurationsfehler | Configuration errors
 **Body** | Beheben Sie diese Probleme, um die Applikation aktivieren oder aktualisieren zu können | You need to take care of the following issues before you can activate your application

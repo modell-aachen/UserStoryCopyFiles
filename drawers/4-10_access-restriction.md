@@ -4,7 +4,7 @@
 
 * [Figma Screen](https://www.figma.com/file/ObpEGoczbPSUsnoH7aPFLbdy/Workflow-Generator-Screens?node-id=1000%3A14007)
 
-- | Deutsch | Englisch
+-- | Deutsch | Englisch
 ---|---|---
 **H2** | Neues Attribut hinzufügen | New attribute
 **Label Textfeld 1** | Name | Name

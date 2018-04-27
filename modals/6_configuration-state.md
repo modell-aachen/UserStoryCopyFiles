@@ -4,7 +4,7 @@
 
 * [Figma Screens](https://www.figma.com/file/ObpEGoczbPSUsnoH7aPFLbdy/Workflow-Generator-Screens?node-id=93%3A527)
 
-- | Deutsch | Englisch
+-- | Deutsch | Englisch
 ---|---|---
 **Heading** | *Wird aus Textfeld 1 übernommen* | -
 **Textfeld 1** | Name | Name

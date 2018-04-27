@@ -3,8 +3,9 @@
 ## Relevante Dokumente
 
 * [Figma Screens](https://www.figma.com/file/ObpEGoczbPSUsnoH7aPFLbdy/Workflow-Generator-Screens?node-id=93%3A755)
+* [7-3 Reiter](../pages/7-3_tabs.md)
 
-- | Deutsch | Englisch
+-- | Deutsch | Englisch
 ---|---|---
 **Heading** | *wird aus Textfeld 1 übernommen* | -
 **Löschen** | Reiter löschen | Delete this tab

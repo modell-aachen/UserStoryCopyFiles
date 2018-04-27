@@ -1,9 +1,10 @@
 # 6-3 Transition hinzufügen
 
 ## Relevante Dokumente
+
 * [Figma Screens](https://www.figma.com/file/ObpEGoczbPSUsnoH7aPFLbdy/Workflow-Generator-Screens?node-id=93%3A645)
 
-- | Deutsch | Englisch
+-- | Deutsch | Englisch
 ---|---|---
 **H1** | Neue Transition hinzufügen | New transition
 **Body** | Ausgangsstatus: [Status] | Transition from [state]

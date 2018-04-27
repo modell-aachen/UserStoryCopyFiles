@@ -2,7 +2,7 @@
 
 ## Relevante Dokumente
 
-* [Figma Screens]()
+* [Figma Screens](https://www.figma.com/file/ObpEGoczbPSUsnoH7aPFLbdy/Workflow-Generator-Screens?node-id=93%3A868)
 * [7-6 Filter](../pages/7-6_filters.md)
 
 -- | Deutsch | Englisch
