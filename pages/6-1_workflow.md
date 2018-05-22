@@ -3,6 +3,7 @@
 ## Relevante Dokumente
 
 * [Figma Screens](https://www.figma.com/file/ObpEGoczbPSUsnoH7aPFLbdy/Workflow-Generator-Screens?node-id=93%3A527)
+* [Modal 6 Configuration-state](../modals/6_configuration-state.md)
 
 -- | Deutsch | Englisch
 ---|---|---
