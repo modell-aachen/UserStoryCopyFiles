@@ -10,6 +10,6 @@
 **Label Textfeld 1** | Name | Name
 **Label Textfeld 2** | Typ | Type
 **Checkbox 1** | Dezimalzahlen zulassen | Allow decimal numbers
-**Checkbox 2** | Pflichtfeld | *english*
+**Checkbox 2** | Pflichtfeld | mandatory field
 **Checkbox 3** | Tooltip anzeigen | Show tool tip
 **Label Textfeld 3** | Tooltip eingeben | Tool tip
