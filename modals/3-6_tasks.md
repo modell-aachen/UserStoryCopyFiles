@@ -16,5 +16,5 @@
 **Sub-Heading** | Aufgabenstati | Task states
 **Label "Neuer Aufgabentyp"** | Weiterer Aufgabentyp | New task type
 **Label "Neuer Aufgabenstatus** | Weiterer Aufgabenstatus | New task state
-
-TODO: Inhaltsblock vs Komponente?
+--|--|--
+**Meldung "Aufgabenverwaltung vor erstem Speichern"**|Das Hinzufügen und Bearbeiten von Aufgaben ist erst nach dem erstmaligen Speichern der Seite verfügbar | Adding and editing tasks is enabled after saving this site
