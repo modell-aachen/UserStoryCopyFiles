@@ -6,11 +6,11 @@
 
 -- | Deutsch | Englisch
 ---|---|---
-**H2** | Neues Attribut hinzufügen | Heading
+**H2** | Neues Attribut hinzufügen | New attribute
 **Label Textfeld 1** | Name | Name
 **Label Textfeld 2** | Typ | Type
 **Prompt "Add Attribute** | Hier tippen... | Type here...
-**Checkbox 1** | Pflichtfeld | Mandatory
+**Checkbox 1** | Pflichtfeld | Required
 **Checkbox 2** | Mehrfachauswahl möglich | Allow multi select
 **Checkbox 3** | Tooltip anzeigen | Show a tooltip
 **Label Textfeld 3** | Tooltip eingeben | Write a short hint

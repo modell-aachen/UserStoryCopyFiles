@@ -9,6 +9,6 @@
 **H2** | Neues Attribut hinzufügen | New attribute
 **Label Textfeld 1** | Name | Name
 **Label Textfeld 2** | Typ | Type
-**Checkbox 1** | Pflichtfeld | Mandatory
-**Checkbox 2** | Tooltip anzeigen | Show a tooltip
+**Checkbox 1** | Pflichtfeld | Required
+**Checkbox 2** | Tooltip anzeigen | Show a tool tip
 **CTA** | Attribut hinzufügen | Add attribute

@@ -6,11 +6,12 @@
 
 -- | Deutsch | Englisch
 --- | --- | ---
-**H2** | Neues Attribut hinzufügen | Heading
+**H2** | Neues Attribut hinzufügen | New attribute
 **Label Textfeld 1** | Name | Name
 **Label Textfeld 2** | Typ | Type
 **Label Textfeld 3** | Wer darf Tags anlegen? | Who can create tags?
-**Checkbox 1** | Mehrfachauswahl möglich | *englisch*
-**Checkbox 2** | Pflichtfeld | *englisch*
-**Checkbox 3** | Tooltip anzeigen | Show tool tip
+**Checkbox 1** | Mehrfachauswahl möglich | Allow multi select
+**Checkbox 2** | Pflichtfeld | Required
+**Checkbox 3** | Tooltip anzeigen | Show a tool tip
+**Label Textfeld 3** | Tooltip eingeben | Write a short hint
 **CTA** | Attribut hinzufügen | Add attribute

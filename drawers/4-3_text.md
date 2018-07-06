@@ -6,7 +6,7 @@
 
 -- | Deutsch | Englisch
 --- | --- | ---
-**H2** | Neues Attribut hinzufügen | Heading
+**H2** | Neues Attribut hinzufügen | New attribute
 **Label Textfeld 1** | Name | Name
 **Label Textfeld 2** | Typ | Type
 **Checkbox 1** | Pflichtfeld | Required

@@ -10,6 +10,6 @@
 **Label Textfeld 1** | Name | Name
 **Label Textfeld 2** | Typ | Type
 **Label Textfeld 3** | Nur Seiten aus folgendem Bereich zulassen | Sites from these areas only
-**Checkbox 1** | Pflichtfeld | Mandatory
-**Checkbox 2** | Tooltip anzeigen | Show a tooltip
+**Checkbox 1** | Pflichtfeld | Required
+**Checkbox 2** | Tooltip anzeigen | Show a tool tip
 **CTA** | Attribut hinzufügen | Add attribute

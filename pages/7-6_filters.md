@@ -8,6 +8,6 @@
 
 -- | Deutsch | Englisch
 ---|---|---
-**Body** | Sie können Filter für die Tabellen auf der Übersichtsseite konfigurieren. Damit kann die Ergebnisliste beispielsweise über eine Volltext-Suche oder Attribute nach ihren Ausprägungen eingegrenzt werden. | Here you can set up filters for your tables. Filters can help users find the entries they need.
+**Body** | Sie können Filter für die Tabellen auf der Übersichtsseite konfigurieren. Damit kann die Ergebnisliste beispielsweise über eine Volltext-Suche oder Attribute nach ihren Ausprägungen eingegrenzt werden | Here you can set up filters for your tables. Filters can help users find the entries they need
 **Checkbox** | Volltextsuche anbieten | Use full-text search
 **Textfeld 1** | Für die Volltextsuche durchsuchte Attribute | Search in these attributes

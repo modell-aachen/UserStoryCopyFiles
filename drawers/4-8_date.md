@@ -10,5 +10,5 @@
 **Label Textfeld 1** | Name | Name
 **Label Textfeld 2** | Typ | Type
 **Checkbox 1** | Pflichtfeld | Mandatory
-**Checkbox 2** | Tooltip anzeigen | Show a tooltip
+**Checkbox 2** | Tooltip anzeigen | Show a tool tip
 **CTA** | Attribut hinzufügen | Add attribute

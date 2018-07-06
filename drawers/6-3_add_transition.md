@@ -18,6 +18,6 @@
 **Label Textfeld 6** | Operator für Vergleich | Operator for comparison
 **Label Textfeld 7** | Vergleichswert | Comparison value
 --- | --- | ---
-**Checkbox** | Alle Kommentare bei Transition löschen | Delete all comments when transitioning
+**Checkbox** | Alle Kommentare bei Transition löschen | Delete all comments during the transition
 **Checkbox** | Hinweis vor der Transition anzeigen | Show a hint before the transition
-**Label Textfeld 8** | Angezeigter Hinweistext | Shown hint
+**Label Textfeld 8** | Angezeigter Hinweistext | Shown tool tip

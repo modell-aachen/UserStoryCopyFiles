@@ -12,5 +12,5 @@
 **Löschen** | Spalte löschen | Delete column
 **Textfeld 1** | Name der Spalte | Name of the column
 **Textfeld 2** | Angezeigtes Attribut | Attribute shown
-**Checkbox** | Auf Detailansicht des Inhalts verlinken
+**Checkbox** | Auf Detailansicht des Inhalts verlinken | Link to full content
 **Button** | Spalte hinzufügen | Add column
