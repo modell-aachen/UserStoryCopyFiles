@@ -10,5 +10,5 @@
 **löschen** | Inhaltsblock löschen | Delete content block
 **Label Textfeld 1** | Name | Name
 **Label Textfeld 2** | Nur bearbeitbar in folgendem Status | Entries can only be edited in this workflow state
-**Checkbox** | Sichtbarkeit an Bearbeitbeitbarkeit knüpfen | Attach visibility to editability
+**Checkbox** | Sichtbarkeit an Bearbeitbarkeit knüpfen | Attach visibility to editability
 **Button "neues Attribut"** | Attribut hinzufügen | Add attribute
