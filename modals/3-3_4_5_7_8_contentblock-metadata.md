@@ -9,8 +9,6 @@
 **Header** | [wird aus Textfeld 1 übernommen] | -
 **löschen** | Inhaltsblock löschen | Delete content block
 **Label Textfeld 1** | Name | Name
-**Label Textfeld 2** | Nur diesen Nutzern und Gruppen anzeigen | Only these users and groups can see the component
-**Label Textfeld 3** | Nur bearbeitbar in folgendem Status | Content can only be edited in this workflow state
+**Label Textfeld 2** | Nur bearbeitbar in folgendem Status | Entries can only be edited in this workflow state
+**Checkbox** | Sichtbarkeit an Bearbeitbeitbarkeit knüpfen | Attach visibility to editability
 **Button "neues Attribut"** | Attribut hinzufügen | Add attribute
-
-TODO: Inhaltsblock vs Komponente?
