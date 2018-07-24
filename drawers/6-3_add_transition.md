@@ -20,4 +20,5 @@
 --- | --- | ---
 **Checkbox** | Alle Kommentare bei Transition löschen | Delete all comments during the transition
 **Checkbox** | Hinweis vor der Transition anzeigen | Show a hint before the transition
+**Checkbox** | Pflichtfelder bei Transition nicht prüfen | Don't check mandatory fields during this transition
 **Label Textfeld 8** | Angezeigter Hinweistext | Shown tool tip
