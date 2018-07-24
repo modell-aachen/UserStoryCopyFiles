@@ -9,8 +9,8 @@
 **Header** | [wird aus Textfeld 1 übernommen] | -
 **löschen** | Inhaltsblock löschen | Delete content block
 **Label Textfeld 1** | Name | Name
-**Label Textfeld 2** | Nur diesen Nutzern und Gruppen anzeigen | Only these users and groups can see the component
-**Label Textfeld 3** | Nur bearbeitbar in folgendem Status | Content can only be edited in this workflow state
+**Label Textfeld 2** | Nur bearbeitbar in folgendem Status | Content can only be edited in this workflow state
+**Checkbox** | Sichtbarkeit an Bearbeitbarkeit knüpfen | Attach visibility to editability
 **Checkbox** | Eine Liste mit allen Anhängen anzeigen | Show a list with attachments
 **Sub-Heading** | Aufgabentypen | Task types
 **Sub-Heading** | Aufgabenstati | Task states
