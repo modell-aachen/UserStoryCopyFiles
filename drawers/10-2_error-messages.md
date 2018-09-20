@@ -18,4 +18,5 @@
 ---|---|---
 **H1** | Mögliche Probleme | Possible problems
 **Body** | Sie können die Applikation aktivieren oder aktualisieren, ohne diese Probleme zu beheben. Sie deuten aber oft auf ein Konfigurationsproblem hin. | You can activate your application without taking care of these. However, you should double-check the following problems as they can point to potential errors
-**Body** | **Inhaltsblock ohne Überschrift** Geben Sie jedem Inhaltsblock eine Überschrift, um die Applikation übersichtlicher zu gestalten | When you give every content block a unique name, users can navigate the application faster and create contents easier
+**Body** | **Inhaltsblock ohne Überschrift** Geben Sie jedem Inhaltsblock eine Überschrift, um die Applikation übersichtlicher zu gestalten | **Content block without header** When you give every content block a unique name, users can navigate the application faster and create contents easier
+**Body** | **Status ohne Einsprung** Mindestens ein Status hat keine Einsprünge und kann nicht im Workflow erreicht werden. | **State without Entry** At least one state has no entry point and cannot be reached in your workflow.
